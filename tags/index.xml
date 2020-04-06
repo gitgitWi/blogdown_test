@@ -1,15 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on gitgitWi&#39;s Hugo website</title>
     <link>/blogdown/tags/</link>
     <description>Recent content in Tags on gitgitWi&#39;s Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blogdown/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/blogdown/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>/blogdown/tags/blog/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/blogdown/tags/r-markdown/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/r-markdown/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>plot</title>
@@ -18,15 +38,7 @@
       
       <guid>/blogdown/tags/plot/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/blogdown/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/blogdown/tags/r-markdown/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -36,6 +48,7 @@
       
       <guid>/blogdown/tags/regression/</guid>
       <description></description>
+      
     </item>
     
   </channel>
