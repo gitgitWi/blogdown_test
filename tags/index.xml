@@ -21,11 +21,74 @@
     </item>
     
     <item>
+      <title>LectureNotes</title>
+      <link>/blogdown/tags/lecturenotes/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/lecturenotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/blogdown/tags/r/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R Markdown</title>
       <link>/blogdown/tags/r-markdown/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/blogdown/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>basic statistics</title>
+      <link>/blogdown/tags/basic-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/basic-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bigdata</title>
+      <link>/blogdown/tags/bigdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>/blogdown/tags/graph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text-mining</title>
+      <link>/blogdown/tags/text-mining/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/text-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualizion</title>
+      <link>/blogdown/tags/visualizion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/tags/visualizion/</guid>
       <description></description>
     </item>
     

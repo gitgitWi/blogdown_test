@@ -18,12 +18,32 @@
   </url>
   
   <url>
+    <loc>/blogdown/2020/04/conn-to-oracledb-import-xml/json-files/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blogdown/2020/04/create-blog-pages-by-r-blogdown/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/blogdown/tags/lecturenotes/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogdown/2020/04/ln0407-r-markdown/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blogdown/post/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogdown/tags/r/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +58,17 @@
   </url>
   
   <url>
+    <loc>/blogdown/categories/study/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blogdown/tags/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogdown/2020/04/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC-%EC%84%A0%EC%88%98%EB%B3%84-%EA%B8%B0%EB%A1%9D-%EB%B6%84%EC%84%9D/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,6 +84,38 @@
   
   <url>
     <loc>/blogdown/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>/blogdown/tags/basic-statistics/</loc>
+  </url>
+  
+  <url>
+    <loc>/blogdown/tags/bigdata/</loc>
+  </url>
+  
+  <url>
+    <loc>/blogdown/tags/graph/</loc>
+  </url>
+  
+  <url>
+    <loc>/blogdown/1/01/lecture-0403-1-text-mining-with-r/</loc>
+  </url>
+  
+  <url>
+    <loc>/blogdown/1/01/lecture-0403-2-visualization-maps-graphs-with-r/</loc>
+  </url>
+  
+  <url>
+    <loc>/blogdown/tags/text-mining/</loc>
+  </url>
+  
+  <url>
+    <loc>/blogdown/tags/visualizion/</loc>
+  </url>
+  
+  <url>
+    <loc>/blogdown/2020-04-07-ln0406.md/</loc>
   </url>
   
 </urlset>

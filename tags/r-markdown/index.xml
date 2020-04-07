@@ -20,5 +20,17 @@
       <description>Necessary Packages  blogdown hugo  install.packages(&amp;quot;blogdown&amp;quot;)library(blogdown)blogdown::install_hugo()</description>
     </item>
     
+    <item>
+      <title>LN0407 R Markdown</title>
+      <link>/blogdown/2020/04/ln0407-r-markdown/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blogdown/2020/04/ln0407-r-markdown/</guid>
+      <description>Math LaTeX 사용방법 표준 LaTeX 수학 문법 이용해 작성
+참고 사이트 : https://www.codecogs.com/latex/eqneditor.php
+ 디스플레이 수식 :  \[ y_{i} = \sqrt[3]{x_{i}} + \sum_{1}^{n} \]
+ 인라인 수식 : 문장안에서 \(y_{i} = \sqrt[3]{x_{i}} + \sum_{1}^{n}\)와 같이 수식 입력    표 생성  기존 Markdown 방식  구분 | 내용 -|- 이름 | 이름이다 나이 | 1251 졸업연도 | 1923 입사연도 | 1332 설명 | 시간을 거스르는 자   구분 내용    이름 이름이다  나이 1251  졸업연도 1923  입사연도 1332  설명 시간을 거스르는 자     R Markdown  ex.</description>
+    </item>
+    
   </channel>
 </rss>
